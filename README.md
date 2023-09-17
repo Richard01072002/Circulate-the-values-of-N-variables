@@ -28,7 +28,8 @@ def circulate():
 
 ## Output:
 
-<img width="1440" alt="Screenshot 2023-09-17 at 11 36 25 AM" src="https://github.com/Richard01072002/Circulate-the-values-of-N-variables/assets/141472248/7b52baf9-b428-4186-bed8-140800ecf940">
+<img width="1440" alt="Screenshot 2023-09-17 at 11 36 25 AM" src="https://github.com/Richard01072002/Circulate-the-values-of-N-variables/assets/141472248/5477d043-6b1e-4966-aa0c-bafe68c683ec">
+
 
 
 ## Result:
