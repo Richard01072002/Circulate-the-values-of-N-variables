@@ -33,3 +33,5 @@ def circulate():
 
 
 ## Result:
+<img width="1440" alt="Screenshot 2023-09-17 at 11 36 25 AM" src="https://github.com/Richard01072002/Circulate-the-values-of-N-variables/assets/141472248/2a057c96-7b1d-4d2d-82fa-271d096ecb4b">
+
